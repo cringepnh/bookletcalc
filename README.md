@@ -31,9 +31,9 @@ The program is available in **three languages** to help users worldwide:
 
 | Language | Download |
 |----------|----------|
-| 🇺🇿 O'zbek | [BookletCalc_UZ.exe](releases) |
-| 🇷🇺 Русский | [BookletCalc_RU.exe](releases) |
-| 🇬🇧 English | [BookletCalc_EN.exe](releases) |
+| 🇺🇿 O'zbek | [BookletCalc_UZ.exe](https://github.com/cringeqwh/bookletcalc/releases/download/v1.0.0/BookletCalc_UZ.exe) |
+| 🇷🇺 Русский | [BookletCalc_RU.exe](https://github.com/cringeqwh/bookletcalc/releases/download/v1.0.0/BookletCalc_RU.exe) |
+| 🇬🇧 English | [BookletCalc_EN.exe](https://github.com/cringeqwh/bookletcalc/releases/download/v1.0.0/BookletCalc_EN.exe) |
 
 Just download and run — no installation needed!
 
